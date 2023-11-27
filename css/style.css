@@ -581,9 +581,7 @@ section{
     header{
         width: 54rem;
     }
-.theme-toggler{
-    display: none;
-}
+
     .home .home-slider .swiper-slide{
         width: 27rem;
     }
