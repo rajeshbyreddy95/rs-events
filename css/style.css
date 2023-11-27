@@ -574,6 +574,7 @@ section{
 
     html{
         font-size: 50%;
+        text-align: center;
     }
 
     .home .home-slider .swiper-slide{
