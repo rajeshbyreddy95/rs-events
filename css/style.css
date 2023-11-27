@@ -571,11 +571,16 @@ section{
 }
 
 @media (max-width:450px){
-
+    
     html{
         font-size: 50%;
     }
-
+    header{
+        width: 54rem;
+    }
+.theme-toggler{
+    display: none;
+}
     .home .home-slider .swiper-slide{
         width: 27rem;
     }
