@@ -575,6 +575,9 @@ section{
     html{
         font-size: 50%;
     }
+    body{
+        overflow-x: hidden;
+    }
     header{
         width: 54rem;
     }
