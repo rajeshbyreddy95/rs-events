@@ -584,6 +584,9 @@ section{
     body{
         overflow-x: hidden;
     }
+    .footer{
+        text-align: center;
+    }
 
     .home .home-slider .swiper-slide{
         width: 27rem;
