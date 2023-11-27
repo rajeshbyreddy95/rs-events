@@ -530,6 +530,9 @@ section{
     section{
         padding:2rem;
     }
+    body{
+        overflow-x: hidden;
+    }
 
 }
 
@@ -567,6 +570,9 @@ section{
     .home .content h3{
         font-size: 4rem;
     }
+    body{
+        overflow-x: hidden;
+    }
 
 }
 
@@ -577,9 +583,6 @@ section{
     }
     body{
         overflow-x: hidden;
-    }
-    header{
-        width: 54rem;
     }
 
     .home .home-slider .swiper-slide{
