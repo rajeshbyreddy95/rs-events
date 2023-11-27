@@ -123,7 +123,7 @@ section{
 }
 
 .home .content h3 span{
-    color:var(--main-color);
+    color:ar(--main-color);
     text-transform: uppercase;
 }
 
